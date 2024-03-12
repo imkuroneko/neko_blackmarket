@@ -2,20 +2,22 @@
 
 Sistema de mercado ilegal para servidores de FiveM basado en QBCore. Está planificado para que en cada reinicio el PED spawnee en un lugar distinto 😉
 
+> Basado en lo que aprendí del uso del `ox_lib` y `ox_inventory` para aplicar mejoras a [🍟 neko_restaurants](https://github.com/imkuroneko/neko_restaurants/) _(update en breve)_
+
 ---
 
 ### Dependencias
-- `ox_lib`
-- `ox_inventory`
-- `qb-target`
+> - `ox_lib`
+> - `ox_inventory`
+> - `qb-target`
 
 ---
 
 ### Detalles
 Todo lo configurable requerido está en el `config.lua`:
- - Mostrar/ocultar blip de ubicación
- - Seteo de puntos donde podrá aparecer el PED (en cada reinicio del servidor)
- - Segmentado por categorías (y forma de pago utilizar)
+> - Mostrar/ocultar blip de ubicación
+> - Seteo de puntos donde podrá aparecer el PED (en cada reinicio del servidor)
+> - Segmentado por categorías (y forma de pago utilizar)
 
 ---
 
