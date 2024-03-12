@@ -12,9 +12,10 @@ Sistema de mercado ilegal para servidores de FiveM basado en QBCore. Está plani
 ---
 
 ### Detalles
-- Todo lo configurable requerido está en el `config.lua`:
+Todo lo configurable requerido está en el `config.lua`:
+ - Mostrar/ocultar blip de ubicación
  - Seteo de puntos donde podrá aparecer el PED (en cada reinicio del servidor)
- - Segmentado por categorías
+ - Segmentado por categorías (y forma de pago utilizar)
 
 ---
 
