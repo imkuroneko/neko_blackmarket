@@ -84,22 +84,27 @@ Config.Categories = {
             { name = "weapon_bullpuprifle_mk2",  currency = 'black_money',  price = 36000 },
         }
     },
-    ['misc'] = {
+    ['ammos'] = {
+        label = "Artículos varios",
+        icon  = "fa-solid fa-box",
+        items = {
+            { name = "ammo-9",                  currency = 'black_money',  price = 4 },
+            { name = "ammo-50",                 currency = 'black_money',  price = 4 },
+            { name = "ammo-rifle2",             currency = 'black_money',  price = 4 },
+            { name = "ammo-shotgun",            currency = 'black_money',  price = 4 },
+            { name = "ammo-rifle",              currency = 'black_money',  price = 4 },
+        }
+    },
+    ['tools'] = {
         label = "Artículos varios",
         icon  = "fa-solid fa-icons",
         items = {
-            { name = "armor",                    currency = 'black_money',  price = 10000  },
-            { name = "heavyarmor",               currency = 'black_money',  price = 15000  },
-            { name = "labkey",                   currency = 'black_money',  price = 30000  },
-            { name = "trojan_usb",               currency = 'black_money',  price = 75000  },
-            { name = "thermite",                 currency = 'black_money',  price = 200000 },
-            { name = "drill",                    currency = 'black_money',  price = 175000 },
-            { name = "advancedlockpick",         currency = 'black_money',  price = 5000   },
-            { name = "gatecrack",                currency = 'black_money',  price = 950000 },
-            { name = "pistol_ammo",              currency = 'black_money',  price = 100    },
-            { name = "rifle_ammo",               currency = 'black_money',  price = 1500   },
-            { name = "smg_ammo",                 currency = 'black_money',  price = 1000   },
-            { name = "shotgun_ammo",             currency = 'black_money',  price = 2000   },
+            { name = "heavyarmor",               currency = 'black_money',  price = 5000  },
+            { name = "labkey",                   currency = 'black_money',  price = 3000  },
+            { name = "trojan_usb",               currency = 'black_money',  price = 7500  },
+            { name = "thermite",                 currency = 'black_money',  price = 20000 },
+            { name = "drill",                    currency = 'black_money',  price = 17500 },
+            { name = "advancedlockpick",         currency = 'black_money',  price = 5000  },
         }
     }
 }
