@@ -1,3 +1,7 @@
+> [!WARNING]  
+> Este proyecto es 100% open source, por lo que NO ofrezco soporte para el mismo.
+> This project is 100% open source, so I will not provide support for it
+
 <h1 align="center">🔫 neko_blackmarket</h1>
 
 Sistema de mercado ilegal para servidores de FiveM basado en QBCore. Está planificado para que en cada reinicio el PED spawnee en un lugar distinto 😉
